@@ -1,2 +1,1 @@
-# git-showcase
-A small showcase of git 
+Check.de ist besser als test24
